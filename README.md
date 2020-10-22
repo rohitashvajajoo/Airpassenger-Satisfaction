@@ -49,4 +49,4 @@ Arrival Delay in Minutes: Minutes delayed when Arrival
 Satisfaction: Airline satisfaction level(Satisfaction, neutral or dissatisfaction)
 #
 GOAL:
-TO predict passenger satisfaction!
+To predict passenger satisfaction!
